@@ -1,5 +1,6 @@
 # Aula2.1
 
 catia fonseca
-cleo pirez
+gloria pires
 renato aragão
+faustao 
